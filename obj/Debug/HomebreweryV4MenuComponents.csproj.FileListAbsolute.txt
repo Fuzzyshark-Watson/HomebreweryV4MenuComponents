@@ -1,0 +1,14 @@
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.exe.config
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.exe
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.pdb
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.csproj.AssemblyReference.cache
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.csproj.CoreCompileInputs.cache
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.exe
+C:\Users\Watso\source\repos\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.pdb
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.exe.config
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.exe
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\bin\Debug\HomebreweryV4MenuComponents.pdb
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.csproj.AssemblyReference.cache
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.csproj.CoreCompileInputs.cache
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.exe
+C:\Demos\Portfolio\HomebreweryV4MenuComponents\HomebreweryV4MenuComponents\obj\Debug\HomebreweryV4MenuComponents.pdb
